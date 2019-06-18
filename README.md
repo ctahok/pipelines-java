@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/cloudcamp/Demo1/_apis/build/status/ctahok.pipelines-java?branchName=master)](https://dev.azure.com/cloudcamp/Demo1/_build/latest?definitionId=3&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
